@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Elisabeth!
 
-https://user-images.githubusercontent.com/76666576/147537579-2fc2e4d8-2def-4a7a-a498-053385684882.mp4
+![Banner (1)](https://user-images.githubusercontent.com/76666576/147538090-c208e053-eb49-4e43-8f8c-3d201978f56d.png)
 
 I am a multidisciplinary technologist, engineer, and Women in Games Ambassador with experience working on globally released products in the games industry!
 
