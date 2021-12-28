@@ -1,4 +1,6 @@
-<img src='Pictures\banner.png' alt="banner"></img>
+### Hi there 👋, my name is Elisabeth!
+
+https://user-images.githubusercontent.com/76666576/147537579-2fc2e4d8-2def-4a7a-a498-053385684882.mp4
 
 I am a multidisciplinary technologist, engineer, and Women in Games Ambassador with experience working on globally released products in the games industry!
 
