@@ -4,7 +4,7 @@
 
 I am a multidisciplinary technologist, engineer, and Women in Games Ambassador with experience working on globally released products in the games industry!
 
-Skills: C / C++ / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
+Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 
 - 🔭 I’m currently working on  a new Unreal Engine game 
 - 🌱 I’m currently learning about game engine architecture 
