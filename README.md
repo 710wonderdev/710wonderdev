@@ -6,8 +6,8 @@ I am a multidisciplinary technologist, engineer, and Women in Games Ambassador w
 
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 
-- 🔭 I’m currently working on  a new Unreal Engine game 
-- 🌱 I’m currently learning about game engine architecture 
+- 🔭 I’m currently working on a new Nintendo project 
+- 🌱 I’m currently learning more about Unreal Engine
 - 📫 How to reach me: 710wonderdev@gmail.com 
 - 😄 Pronouns: she/her 
 
