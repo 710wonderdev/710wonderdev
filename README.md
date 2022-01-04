@@ -16,5 +16,6 @@ Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=710wonderdev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=710wonderdev)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=710wonderdev&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=710wonderdev)  
