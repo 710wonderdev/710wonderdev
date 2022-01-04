@@ -6,10 +6,10 @@ I am a multidisciplinary technologist, engineer, and Women in Games Ambassador w
 
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 
-- 🔭 I’m currently working on a new Nintendo project 
+- 🎮 I’m currently working on a new Nintendo project 
 - 🌱 I’m currently learning more about Unreal Engine
-- 📫 How to reach me: 710wonderdev@gmail.com 
-- 😄 Pronouns: she/her 
+- 💌 How to reach me: 710wonderdev@gmail.com 
+- ☺️ Pronouns: she/her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/710wonderdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/elisabethpring/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dev.mage//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/710wonderdev)  
