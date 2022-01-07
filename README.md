@@ -19,3 +19,4 @@ Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=710wonderdev&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=710wonderdev)  
+![Women in Games](https://user-images.githubusercontent.com/76666576/148599593-73d4b29a-264c-4722-a0a9-d93668f81893.png)
