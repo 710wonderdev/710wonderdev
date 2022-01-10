@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Elisabeth!
+### Hi there ❤️, my name is Elisabeth!
 
 ![Banner (1)](https://user-images.githubusercontent.com/76666576/147538090-c208e053-eb49-4e43-8f8c-3d201978f56d.png)
 
@@ -6,8 +6,8 @@ I am a multidisciplinary technologist, engineer, and Women in Games Ambassador w
 
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 
-- 🎮 I’m currently working on a new Nintendo project 
-- 🌱 I’m currently learning more about Unreal Engine
+- 🎮 I’m currently working on a new Nintendo project in Redmond, WA
+- 🌱 I’m currently learning more about Unreal Engine and AR/VR development
 - 💌 How to reach me: 710wonderdev@gmail.com 
 - ☺️ Pronouns: she/her 
 
