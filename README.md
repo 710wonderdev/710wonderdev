@@ -8,7 +8,7 @@ Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
 
 - 🎮 I’m currently working on a new Nintendo project in Redmond, WA
 - 🌱 I’m currently learning more about Unreal Engine and AR/VR development
-- 👾 Connect with me: https://linktr.ee/710wonderdev
+- 👾 Connect with me: www.linkedin.com/in/elisabethpring
 - 💌 Email me: 710wonderdev@gmail.com 
 - ☺️ Pronouns: she/her 
 
