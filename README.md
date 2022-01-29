@@ -1,6 +1,6 @@
 ### Hi there ❤️, my name is Elisabeth!
 
-![banner](https:![Tech Banner](https://user-images.githubusercontent.com/76666576/151642591-5aba03f6-b1ac-4641-afec-ef3ed976c895.png)
+![Tech Banner](https://user-images.githubusercontent.com/76666576/151642591-5aba03f6-b1ac-4641-afec-ef3ed976c895.png)
 
 I am a multidisciplinary technologist, engineer, and Women in Games Ambassador with experience working on globally released products in the games industry!
 
