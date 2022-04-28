@@ -4,7 +4,7 @@
 
 I am a multidisciplinary technologist, engineer with experience working on globally released products in the games industry!
 
-Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / TESTING
+Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / QA
 
 - 🎮 I’m currently working on some side projects 
 - 🌱 I’m learning more about Unreal Engine and tools
