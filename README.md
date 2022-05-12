@@ -2,7 +2,7 @@
 
 ![Women in Games](https://user-images.githubusercontent.com/76666576/148599593-73d4b29a-264c-4722-a0a9-d93668f81893.png)
 
-I am a multidisciplinary technologist, engineer with experience working on globally released products in the games industry!
+I am a multidisciplinary technologist and engineer with experience working on globally released products in the games industry!
 
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / QA
 
