@@ -1,14 +1,14 @@
 ### Hi there ❤️, my name is Elisabeth!
 
-![Women in Games](https://user-images.githubusercontent.com/76666576/148599593-73d4b29a-264c-4722-a0a9-d93668f81893.png)
+![image1](https://user-images.githubusercontent.com/76666576/173111257-77c1e251-ce93-4f64-9eb8-2064edca41a4.jpeg)
 
 I am a multidisciplinary technologist and engineer with experience working on globally released products in the games industry!
 
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / QA
 
-- 🎮 I’m currently working on some side projects 
+- 🎮 I currently work on Destiny 2 with Bungie
 - 🌱 I’m learning more about Unreal Engine and tools
-- 🕹 I'm playing Destiny 2 and Bloodborne
+- 🕹 I'm playing Destiny 2 and Spiritfarer 
 - 👾 Connect with me: www.linkedin.com/in/elisabethpring
 - 💌 Email me: 710wonderdev@gmail.com 
 - ☺️ Pronouns: she/her 
@@ -20,3 +20,5 @@ Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / QA
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=710wonderdev&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=710wonderdev)  
+
+![Women in Games](https://user-images.githubusercontent.com/76666576/148599593-73d4b29a-264c-4722-a0a9-d93668f81893.png)
