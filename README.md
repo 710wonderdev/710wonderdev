@@ -6,8 +6,8 @@ I am a multidisciplinary technologist and engineer with experience working on gl
 
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / QA
 
-- 🌱 I’m learning more about Unreal Engine 5 and Test Automation
-- 🕹 I'm currently playing Spiritfarer and A Plague Tale: Requiem
+- 🌱 I am a QA Engineer at Riot Games working on TFT
+- 🕹 I'm currently playing Octopath Traveler II
 - 👾 Connect with me: www.linkedin.com/in/elisabethpring
 - 💌 Email me: 710wonderdev@gmail.com 
 - ☺️ Pronouns: she/they 
