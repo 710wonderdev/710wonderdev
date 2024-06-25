@@ -1,6 +1,6 @@
 ### Hi there ❤️, my name is Elisabeth!
 
-![Womenw in Games](https://user-images.githubusercontent.com/76666576/148599593-73d4b29a-264c-4722-a0a9-d93668f81893.png)
+![krysten-reis-tft-set923-artstation-artblast-banner-1200x400-v003-alyu](https://github.com/710wonderdev/710wonderdev/assets/76666576/9f82016e-2c89-4c64-aa99-8e24453a171d)
 
 I am a multidisciplinary technologist and engineer with experience working on globally released products in the games industry!
 
