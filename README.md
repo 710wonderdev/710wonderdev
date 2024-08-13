@@ -7,7 +7,7 @@ I am a multidisciplinary technologist and engineer with experience working on gl
 Skills: C / C++ / C# / UNREAL ENGINE / GAME DEVELOPMENT / QA
 
 - 🌱 I am a QA Engineer at Riot Games working on TFT
-- 🕹 I'm currently playing Octopath Traveler II
+- 🕹 I'm currently playing a shit ton of Teamfight Tactics
 - 👾 Connect with me: www.linkedin.com/in/elisabethpring
 - 💌 Email me: 710wonderdev@gmail.com 
 - ☺️ Pronouns: she/they 
